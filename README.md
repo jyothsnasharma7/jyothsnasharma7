@@ -21,6 +21,9 @@ ___
 
 ### Connect with Me
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/jyothsna-sharma-2658972ab/)
+[![LeetCode](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/jyothsnasharma/)
+
+
 
 
 
