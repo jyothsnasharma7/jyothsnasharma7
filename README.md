@@ -10,10 +10,11 @@ ___
 
 ### Tech Stack 💻
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="40"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"/>
 </p>
+
 
 
 ___
