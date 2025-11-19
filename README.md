@@ -24,6 +24,18 @@ ___
 
 ---
 
+### Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/jyothsna-sharma-2658972ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/jyothsnasharma/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+  </a>
+</p>
+
+---
+
 [![An image of @jyothsnasharma7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jyothsnasharma7)](https://holopin.io/@jyothsnasharma7)
 
 
