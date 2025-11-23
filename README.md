@@ -4,7 +4,7 @@
 💻Currently working on improving my coding skills through projects and practice.</br>
 ⚙️Always curious to learn, explore new tools, and build something impactful.</br>
 
-📫Reach out to me: shjyothsna@gmail.com
+📫Reach out to me: jyothsnasharm2005@gmail.com
 
 ___
 
