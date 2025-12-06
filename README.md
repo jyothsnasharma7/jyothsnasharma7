@@ -34,6 +34,11 @@ ___
   </a>
 </p>
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jyothsnasharma?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/jyothsnasharma/)
+
+
+
+
 ---
 
 [![An image of @jyothsnasharma7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jyothsnasharma7)](https://holopin.io/@jyothsnasharma7)
