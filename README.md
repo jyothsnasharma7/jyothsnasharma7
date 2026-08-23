@@ -1,6 +1,6 @@
 
 ### Hey 👋 , I'm Jyothsna!
-🌸I'm a third year Computer Science student passionate about technology and problem-solving.</br>
+🌸I'm a final year Computer Science student passionate about technology and problem-solving.</br>
 💻Currently working on improving my coding skills through projects and practice.</br>
 
 
